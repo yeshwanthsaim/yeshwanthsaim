@@ -21,5 +21,5 @@
 * 📺 You can know about my projects on [YouTube](https://www.youtube.com/@yeshwanthsaim)
 
 <p align="center">
-  <a href="yeshwanthsaim.github.io"  title="Portfolio" ><img alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/-Link%20to%20portfolio%20-000000?style=for-the-badge&logo=coveralls&logoColor=white"/></a>
+  <a href="https://yeshwanthsaim.github.io/"  title="Portfolio" ><img alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/-Link%20to%20portfolio%20-000000?style=for-the-badge&logo=coveralls&logoColor=white"/></a>
 </p>
