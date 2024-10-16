@@ -134,4 +134,7 @@
     </tbody>
 </table>
 
+
+<p align="center" style="color: rgb(125, 86, 194); animation-fill-mode: both; animation-duration: 1000ms; animation-delay: 0ms; animation-iteration-count: 1; opacity: 1; animation-name: react-reveal-858620159721029-6;">Reach out to me: +91 8143090222 <span role="img"></span>Email: yeshudatascience@gmail.com</p>
+
 <p align="center" style="color: rgb(125, 86, 194); animation-fill-mode: both; animation-duration: 1000ms; animation-delay: 0ms; animation-iteration-count: 1; opacity: 1; animation-name: react-reveal-858620159721029-6;">Made with <span role="img">❤️</span> by Yeshwanth Sai</p>
