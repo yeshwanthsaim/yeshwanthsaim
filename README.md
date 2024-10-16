@@ -23,3 +23,48 @@
 <p align="center">
   <a href="https://yeshwanthsaim.github.io/"  title="Portfolio" ><img alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/-Link%20to%20portfolio%20-000000?style=for-the-badge&logo=coveralls&logoColor=white"/></a>
 </p>
+
+## 📘 My top open source projects
+
+<table align="center">
+  <thead align="center">
+    <tr border: none;>
+      <td><b>📘 Project</b></td>
+      <td><b>⭐ Stars</b></td>
+      <td><b>🤝 Forks</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://rel-chroma.netlify.app/"><b>Relational Chroma DB</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/DenverCoder1/LaTeX-Gboard-Dictionary?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/DenverCoder1/LaTeX-Gboard-Dictionary?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/yeshwanthsaim/DocuTalkAI"><b>DocuTalk AI</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/DenverCoder1/github-readme-streak-stats?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/DenverCoder1/github-readme-streak-stats?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+     <tr>
+      <td><a href="https://bridgebizz.com/"><b>Bridge Bizz AI</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/DenverCoder1/github-readme-youtube-stats?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/DenverCoder1/github-readme-youtube-stats?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/DenverCoder1/unicode-formatter"><b>Unicode Formatter</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/DenverCoder1/unicode-formatter?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/DenverCoder1/unicode-formatter?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/yeshwanthsaim/SuperHumanAI"><b>SuperHuman AI</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/DenverCoder1/Unedit-for-Reddit?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/DenverCoder1/Unedit-for-Reddit?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+     <tr>
+      <td><a href="https://github.com/yeshwanthsaim/Basic.Social.AI"><b>Basic Social AI</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/DenverCoder1/Unedit-for-Reddit?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/DenverCoder1/Unedit-for-Reddit?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+  </tbody>
+</table>
+
